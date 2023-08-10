@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.kycdemo",
+    "sha256_cert_fingerprints":
+    ["62:5A:D5:30:6E:87:F4:4E:C2:56:EF:BD:90:43:D4:AC:C4:D2:A5:1D:B9:12:6A:48:1B:5D:DD:0A:35:8A:A0:05"]
+  }
+}]
